@@ -3,7 +3,12 @@
     <img src="https://raw.githubusercontent.com/multicast-live/.github/main/profile/logo.png" alt="MultiCast" width="96" height="96">
   </a>
   <h1>MultiCast</h1>
-  <p><strong>Your brand's content, made and posted for you. ✨</strong></p>
+  <h3>Stop making content. Start approving it. ✅</h3>
+  <p>
+    <strong>One link in. Every channel out.</strong> 📡<br>
+    MultiCast is the always-on marketing team for your brand —<br>
+    it makes the content, posts it everywhere, and answers the comments. You just give the OK.
+  </p>
   <p>
     <a href="https://multi-cast.live">🌐 Website</a>
     &nbsp;·&nbsp;
@@ -21,7 +26,7 @@
 
 ---
 
-## 👋 Meet MultiCast
+## 👋 You have a brand. No time to market it?
 
 ### Paste your website. Get scroll-stopping content in minutes. ⚡
 
